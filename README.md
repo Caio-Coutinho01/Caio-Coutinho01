@@ -45,7 +45,8 @@ class About extends Me {
 - <img src="https://github.com/Caio-Coutinho01/Caio-Coutinho01/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **ChatGPT & GitCopilot**. <br>
 - <img src="https://github.com/Caio-Coutinho01/Caio-Coutinho01/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Games, Movies, or anything**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/Caio-Coutinho01/Caio-Coutinho01/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
+<br>
+<img src="https://github.com/Caio-Coutinho01/Caio-Coutinho01/blob/main/images/not-used/dino.gif?raw=true" href="https://github.com/Caio-Coutinho01" alt="Dino" width="100%"/>
 <hr></hr>
 
 <div align="center" >
