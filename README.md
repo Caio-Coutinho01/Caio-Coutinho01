@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/Caio-Coutinho01/Caio-Coutinho01/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Caio-Coutinho01" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/Caio-Coutinho01/Caio-Coutinho01/blob/main/images/hellocoders_rounded1.gif?raw=true" href="https://github.com/Caio-Coutinho01" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/Caio-Coutinho01/Caio-Coutinho01/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Caio-Coutinho01" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 
